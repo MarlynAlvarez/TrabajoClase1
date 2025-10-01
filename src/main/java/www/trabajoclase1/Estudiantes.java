@@ -1,11 +1,11 @@
 
 package www.trabajoclase1;
 
-public class Estudiante {
+public class Estudiantes {
     // Atributos
     public String nombre;
-    public String identificacion;
-    public float promedio;
+    public int identificacion;
+    public double promedio;
     
     //metodos
     public void inscripcion(){

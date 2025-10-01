@@ -1,12 +1,12 @@
 
 package www.trabajoclase1;
 
-public class Curso {
+public class Cursos {
 
    //atributos
     public String nombreCurso;
-    public String codigo;
-    public float pendiente;
+    public int codigo;
+    public Estudiantes[] listaCurso;
     
     //metodos
     public void agregarEstudiante(){
